@@ -1,0 +1,3 @@
+[submodule "ib_insync"]
+	path = ib_insync
+	url = https://github.com/erdewit/ib_insync.git
